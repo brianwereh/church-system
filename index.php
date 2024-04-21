@@ -65,15 +65,15 @@
                                 <h1> Sign up </h1> 
                                 <p> 
                                     <label for="usernamesignup" class="uname" data-icon="u">First Name</label>
-                                    <input id="usernamesignup" name="fname" required="required" type="text" placeholder="John" />
+                                    <input id="usernamesignup" name="fname" required="required" type="text" placeholder="Brian" />
                                 </p>
                                 <p> 
                                     <label for="usernamesignup" class="uname" data-icon="u" > Middle Name</label>
-                                    <input id="usernamesignup" name="sname" required="required" type="text" placeholder="Doe"/> 
+                                    <input id="usernamesignup" name="sname" required="required" type="text" placeholder="Arek"/> 
                                 </p>
 								<p> 
                                     <label for="usernamesignup" class="uname" data-icon="u">Last Name</label>
-                                    <input id="usernamesignup" name="lname" required="required" type="text" placeholder="John" />
+                                    <input id="usernamesignup" name="lname" required="required" type="text" placeholder="Wereh" />
                                 </p>
 								<p> 
                                     <label for="usernamesignup" class="uname" data-icon="u">Gender</label>
@@ -95,7 +95,7 @@
                                 </p>
 								<p> 
                                     <label for="usernamesignup" class="uname" data-icon="u">Place of Birth</label>
-                                    <input id="usernamesignup" name="pob" required="required" type="text" placeholder="Kirinyaga" />
+                                    <input id="usernamesignup" name="pob" required="required" type="text" placeholder="Kiserian" />
                                 </p>
 								<p> 
                                     <label for="usernamesignup" class="uname" data-icon="u">Ministry</label>

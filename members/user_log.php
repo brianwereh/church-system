@@ -44,7 +44,7 @@
 										</thead>
 										<tbody>
 													<?php
-													$user_query = mysqli_query($conn,"select * from user_log order by login_date AND logout_date DESC")or die(mysqli_error());
+													$user_query = mysqli_query($conn,"select * from user_log order by login_date AND logout_date DESC")or die(mysqli_error($conn));
 													while($row = mysqli_fetch_array($user_query)){
 													$id = $row['user_log_id'];
 													?>
