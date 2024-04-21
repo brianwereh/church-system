@@ -10,7 +10,7 @@
 <a href="https://www.twitter.com/BrianArek_ke/"><img src="images/twitter.png" id=social /></a>
 <a href="https://www.linkedin.com/in/brian-arek-9915b2244?trk=contact-info"><img src="images/linkedin.png"id=social  /></a>
 <a href="https://www.youtube.com/@creative254tv"><img src="images/youtube.png" id=social /></a>
-<a href="#"><img src="images/gmail.png" id=social /></a></p>
+<a href="https://wa.me/+254748821539"><img src="images/whatsapp.png" id=social /></a></p>
 </div>
         <footer>
 </div>
