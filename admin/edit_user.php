@@ -53,7 +53,7 @@
 										</thead>
 										<tbody>
 													<?php
-													$user_query = mysqli_query($conn,"select * from admin")or die(mysqli_error());
+													$user_query = mysqli_query($conn,"select * from admin")or die(mysqli_error($conn));
 													while($row = mysqli_fetch_array($user_query)){
 													$id = $row['admin_id'];
 													?>
