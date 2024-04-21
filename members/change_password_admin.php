@@ -18,7 +18,7 @@
                                 <div class="span12">
   								
 								<?php
-								$query = mysqli_query($conn,"select * from members where id = '$session_id'")or die(mysqli_error());
+								$query = mysqli_query($conn,"select * from members where id = '$session_id'")or die(mysqli_error($conn));
 								$row = mysqli_fetch_array($query);
 								?>		
 								 <div class="container-fluid">
