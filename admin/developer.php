@@ -42,9 +42,9 @@
 										<center>
 								        <img id="developers" src="developers/admin.jpg" class="img-circle">
 								        <hr>
-										<p>Name: Kithinji Godfrey</p>
-										<p>Address:meru</p>
-										<p>Email:<a href="http://www.gmail.com"> godkith19@gmail.com</a></p>
+										<p>Name: BRIAN AREK</p>
+										<p>Address:NAIROBI</p>
+										<p>Email:<a href="http://www.gmail.com"> arekbrian6@gmail.com</a></p>
 										<p>Position: Web Programmer </p>
 								        </center>
 								</div>
