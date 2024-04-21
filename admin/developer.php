@@ -40,7 +40,7 @@
 							
                                 <div class="span3" >
 										<center>
-								        <img id="developers" src="developers/admin.jpg" class="img-circle">
+								        <img id="developers" src="developers/brian.png" class="img-circle">
 								        <hr>
 										<p>Name: BRIAN AREK</p>
 										<p>Address:NAIROBI</p>

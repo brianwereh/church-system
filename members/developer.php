@@ -32,7 +32,7 @@
 																});
 																</script> 
 								</div>
-                            <div class="block-content collapse in" ">
+                            <div class="block-content collapse in" >
 							<h3></i><i class="icon-group"></i>&nbsp;System Developer</h3>
 							<hr>
 							<div class="span3"></div>
@@ -40,7 +40,7 @@
 							
                                 <div class="span3" >
 										<center>
-								        <img id="developers" src="developers/admin.jpg" class="img-circle">
+								        <img id="developers" src="developers/brian.png" class="img-circle">
 								        <hr>
 										<p>Name: AREK BRIAN</p>
 										<p>Address:NAIROBI</p>
